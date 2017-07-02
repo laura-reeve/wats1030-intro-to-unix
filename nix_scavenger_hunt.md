@@ -15,10 +15,14 @@ and then clone it to your development environment.
 ### Navigating the Filesystem
 
 * Get an idea of where you are in the operating system. Use the `pwd` command to find your "path to working directory"--your current location in the filesystem of your devbox. *Paste the output of the `pwd` command here: 
+'''
 /home/cabox/workspace 
+'''
 *
 * Discover more about this filesystem. Use `ls` (the "list" command)to see what is in this directory. *What directories and files do you see when you run `ls`? 
+'''
 LICENSE, challenge_files, nix_scavenger_hunt_stretch.md, README.md, nix_scavenger_hunt.md, super_scavengers.md 
+'''
 *
 * You can use *options* to modify how a command runs. Try using `ls -alh` to see the contents of your current directory. *How are the results different when you use the `-alh` options? 
 total 40K                                                                      
